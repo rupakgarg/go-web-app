@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: rupakshop.in
+  - host: www.rupakshop.in
     http:
       paths: 
       - path: /
