@@ -8,7 +8,7 @@ image:
   repository: rupakgarg/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "43038644956"
+  tag: "43042789371"
 
 ingress:
   enabled: false
